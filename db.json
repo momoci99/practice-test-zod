@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "JD@test.com",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@test.com",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.j@test.com",
+      "age": 28
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@test.com",
+      "age": 22
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david.wilson@test.com",
+      "age": 35
+    },
+    {
+      "id": 6,
+      "name": "Sophia Brown",
+      "email": "sophia.brown@test.com",
+      "age": 27
+    },
+    {
+      "id": 7,
+      "name": "James Miller",
+      "email": "james.miller@test.com",
+      "age": 40
+    },
+    {
+      "id": 8,
+      "name": "Olivia Garcia",
+      "email": "olivia.garcia@test.com",
+      "age": 23
+    },
+    {
+      "id": 9,
+      "name": "Christopher Martinez",
+      "email": "chris.m@test.com",
+      "age": 33
+    },
+    {
+      "id": 10,
+      "name": "Amelia Anderson",
+      "email": "amelia.anderson@test.com",
+      "age": 26
+    }
+  ],
+
+  "wrong-users": [
+    {
+      "id": 1,
+      "name": "존 도우",
+      "email": "jone@test.com",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "제인 스미스",
+      "email": "jane@test.com",
+      "age": 2
+    }
+  ]
+}
